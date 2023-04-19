@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "batikbaru2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 3, "toko_batik": "\tNURHIDAYAH", "alamat": "\tMandirejo Ds, Tuban, Jawa Timur", "E": 111.97788968227228, "S": -6.8797335631891308, "field_6": null, "field_7": null, "field_8": null, "field_9": null, "field_10": null, "field_11": null, "field_12": null }, "geometry": { "type": "Point", "coordinates": [ 111.977889682272277, -6.879733563189131 ] } }
+]
+}
